@@ -1,1 +1,0 @@
-# Gram-Schimdt-Process-Linear-Algebra-
